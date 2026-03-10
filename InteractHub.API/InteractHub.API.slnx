@@ -1,7 +1,0 @@
-<Solution>
-  <Project Path="../InteractHub.Application/InteractHub.Application.csproj" />
-  <Project Path="../InteractHub.Domain/InteractHub.Domain.csproj" />
-  <Project Path="../InteractHub.Infrastructure/InteractHub.Infrastructure.csproj" />
-  <Project Path="../InteractHub.Tests/InteractHub.Tests.csproj" />
-  <Project Path="InteractHub.API.csproj" />
-</Solution>
